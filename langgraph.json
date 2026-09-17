@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "interview": "./src/insightmesh/graphs/interview/graph.py:graph",
+    "research": "./src/insightmesh/graphs/research/graph.py:graph"
+  },
+  "env": ".env"
+}
